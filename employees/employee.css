@@ -1,3 +1,28 @@
+  /* NAVBAR */
+  .navbar{
+    height: 100px;
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 1.4rem;
+	z-index: 999;
+		
+  }
+  .navbar .container{
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+  }
+	.enchanting-logo:hover{
+		cursor: pointer;
+	}
+	.nav-employee:hover{
+		cursor: pointer;
+	}
+	.nav-subscription:hover{
+		cursor: pointer;
+	}
+
+
+    /* adam */
 .head{
     margin-top: 200px;
 }
